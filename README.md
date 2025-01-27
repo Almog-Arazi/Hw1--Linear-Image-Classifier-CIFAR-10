@@ -71,5 +71,5 @@ pip install numpy matplotlib
   - Decision boundaries of the classifier.
   - Loss and accuracy trends over training epochs.
 
-- **ALMOG ARZAI**
+- **ALMOG ARAZI**
 
